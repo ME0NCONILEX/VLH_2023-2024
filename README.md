@@ -5,7 +5,7 @@
 ### results: Växjö Lakers
 
  * My score app built in React using Vite, NPM, hooks, Accordion, CSS
- > using IntelliJ IDEA 2022.3.3 (Ultimate Edition) on Windows 11 Pro 22H2
+ > using IntelliJ IDEA 2023.1.3 (Ultimate Edition) on Windows 11 Pro 22H2
 
 
 (to do)
