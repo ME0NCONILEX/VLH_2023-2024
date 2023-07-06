@@ -1,7 +1,7 @@
 # <i> Summer in the City series </i>
 (to be continued...)
 ## Swedish Hockey League (SHL) 2023/2024  
-* http://me0nly.cadpower.se/media/SHL2023resultsVL.mp4
+* <a href=http://me0nly.cadpower.se/media/SHL2023resultsVL.mp4><i>1:st game, example</i></a>
 ### results: Växjö Lakers
 
  * My score app built in React using Vite, NPM, hooks, Accordion, CSS
